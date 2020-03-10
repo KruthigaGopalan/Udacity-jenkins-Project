@@ -6,6 +6,6 @@ This branch contains the files that create the network and servers using cloud f
 
 
 Pipeline Branch
-The branch contains the files for the Jenkins build and the fiel that get copied into the S3 bucket.
+The branch contains the files for the Jenkins build and the field that gets copied into the S3 bucket.
 
 I have a nohup error that I could not able to fix this and hence I could not continue to integrate the s3 and lint to the pipeline.
