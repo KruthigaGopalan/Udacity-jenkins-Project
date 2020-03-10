@@ -1,0 +1,11 @@
+Link to Repo
+
+
+Master Branch 
+This branch contains the files that create the network and servers using cloud formations.  
+
+
+Pipeline Branch
+The branch contains the files for the Jenkins build and the fiel that get copied into the S3 bucket.
+
+I have a nohup error that I could not able to fix this and hence I could not continue to integrate the s3 and lint to the pipeline.
