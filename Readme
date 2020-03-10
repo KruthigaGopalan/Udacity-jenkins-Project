@@ -1,0 +1,5 @@
+ ReadMe file for Udacity-Project-Jenkins
+Create EC2 
+Create udacity-jenkins-Project Group with EC2, VPC, S3 and IAM full access
+Create "Jenkins" user and attached to the group
+Create S3 bucket that has public read access and can be accessed by Jenkins
